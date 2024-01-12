@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE person [
+    <!ELEMENT person (persondata+)>
+    <!ELEMENT persondata (name,cource,email,age)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT cource (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ATTLIST persondata id CDATA #REQUIRED >
+    
+]>
+
+<person>
+    <persondata id="45">
+        <name>faiq</name>
+        <cource>cpism</cource>
+        <email>xyz@gmail.com</email>
+        <age>19</age>
+</persondata>
+<persondata id="76">
+    <name>dabeer</name>
+    <cource>cpism</cource>
+    <email>xyz@gmail.com</email>
+    <age>18</age>
+</persondata>
+<persondata id="52">
+    <name>hammal</name>
+    <cource>cpism</cource>
+    <email>xyz@gmail.com</email>
+    <age>19</age>
+</persondata>
+</person>

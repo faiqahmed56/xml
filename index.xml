@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Students>
+    <student xmlns:msg="www.msg.com" id="65">
+    <msg:name>faiq</msg:name>
+    <msg:cource>cpism</msg:cource>
+    <msg:fees>9000</msg:fees>
+</student>
+<student xmlns:sfc="www.sfc.com" id="54">
+    <sfc:name>dabeer</sfc:name>
+    <sfc:cource>cpism</sfc:cource>
+    <sfc:fees>9000</sfc:fees>
+</student>
+<student xmlns:malir="www.malir.com" id="78">
+    <malir:name>hammal</malir:name>
+    <malir:cource>cpism</malir:cource>
+    <malir:fees>9000</malir:fees>
+</student>
+</Students>
