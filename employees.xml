@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="employees.xsd">
+    <employee>
+        <id>01</id>
+        <name>faiq</name>
+        <department>staff</department>
+        <courses>
+            <course>CPISM</course>
+            <course>DISM</course>
+        </courses>
+    </employee>
+    <employee>
+        <id>02</id>
+        <name>dabeer</name>
+        <department>management</department>
+        <courses>
+            <course>CPISM</course>
+            <course>DISM</course>
+        </courses>
+    </employee><employee>
+        <id>03</id>
+        <name>hammal</name>
+        <department>it</department>
+        <courses>
+            <course>CPISM</course>
+            <course>DISM</course>
+        </courses>
+    </employee>
+</employees>
