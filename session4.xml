@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="session4.xsl" type="text/xsl"?>
+<staff>
+    <employee>
+        <name>faiq</name>
+        <department>staff</department>
+        <courses>CPISM</courses>
+    </employee>
+    <employee>
+    <name>hammal</name>
+        <department>management</department>
+        <courses>DISM</courses>
+    </employee>
+    <employee>
+    <name>dabeer</name>
+        <department>it</department>
+        <courses>ACCP</courses>
+    </employee>
+</staff>
